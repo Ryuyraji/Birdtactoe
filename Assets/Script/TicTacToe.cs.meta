@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0a4f33200642e6349b68a53bbbb2b5d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ip: {instanceID: 0}
+  - texBoard: {instanceID: 0}
+  - texWhite: {instanceID: 0}
+  - texBlack: {instanceID: 0}
+  - texWhitewin: {instanceID: 0}
+  - texBlackwin: {instanceID: 0}
+  - stonePlacedSound: {fileID: 8300000, guid: 92cf157d94167974a9362dc9cb1ce7e8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
